@@ -2,6 +2,6 @@
 Sanbercode
 
 
-Manual Test Case Docs: https://docs.google.com/spreadsheets/d/12ZPkorBKiKU9AGtHUvOqHbIPsWSxyhmE/edit?usp=sharing&ouid=101769902950945767672&rtpof=true&sd=true
+Manual Test Case Docs: https://docs.google.com/spreadsheets/d/12bT9KBNPrJ3YNOz9tjmm-WqvBRwSVDgvU0xtPKEstIk/edit?usp=sharing
 
 Website Link: https://opensource-demo.orangehrmlive.com
